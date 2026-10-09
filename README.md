@@ -11,3 +11,4 @@ A Simple AI Agent from Scratch in Python
 Build a simple AI agent from scratch in python that uses Anthropic Claude (latest)
 
 
+⚠️ RUNNING THE AGENT IS CURRENTLY BLOCKED DUE TO BILLING RESTRICTIONS
